@@ -43,7 +43,5 @@ In the yoga tradition Shama refers to the conscious harmony of the Whole Self â€
 </ul>
 
 <div id="bit-of-a-footer">
-
 <img src="https://lh3.googleusercontent.com/-4SRh08WPwMo/Wx6MRsjoTXI/AAAAAAAABGc/Ev1usdrNjc8HU-6AkqrNI7R8FOn_J48qQCJoC/s150-e30/webphotos12.jpg"/>
-
 </div>
