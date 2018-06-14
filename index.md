@@ -6,7 +6,7 @@ hero_image:
 bubbles:
   - image: >-
       https://lh3.googleusercontent.com/-pqFA3R0QHZs/WyAqlxb1GjI/AAAAAAAABNE/_5Pm0IJUyPIPMowIepk90XY9Tzurttv4QCJoC/w530-h530-n-e30/teach2.png
-    label-text: Teach Your Yoga Man
+    label-text: Teach Your Yoga
     label-position: bottom
   - image: >-
       https://lh3.googleusercontent.com/-4SRh08WPwMo/Wx6MRsjoTXI/AAAAAAAABGc/Ev1usdrNjc8HU-6AkqrNI7R8FOn_J48qQCJoC/w530-h492-n-e30/webphotos12.jpg
