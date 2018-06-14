@@ -1,5 +1,5 @@
 ---
-title: Shamayoga - Learn yoga or Learn To Teach Yoga
+title: Shamayoga - Learn yoga or Learn To Teach Yoga test
 description: 
 layout: testhome
 hero_image: 
