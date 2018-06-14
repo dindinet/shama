@@ -42,9 +42,8 @@ In the yoga tradition Shama refers to the conscious harmony of the Whole Self â€
 <li>You can subscribe to our free newsletter to receive inspirational articles, downloads and updates on shamayoga activities</li>
 </ul>
 
-<footer>
+<div id="bit-of-a-footer">
 
-  
-![](https://lh3.googleusercontent.com/-4SRh08WPwMo/Wx6MRsjoTXI/AAAAAAAABGc/Ev1usdrNjc8HU-6AkqrNI7R8FOn_J48qQCJoC/s150-e30/webphotos12.jpg)
+<img src="https://lh3.googleusercontent.com/-4SRh08WPwMo/Wx6MRsjoTXI/AAAAAAAABGc/Ev1usdrNjc8HU-6AkqrNI7R8FOn_J48qQCJoC/s150-e30/webphotos12.jpg"/>
 
-</footer>
+</div>
