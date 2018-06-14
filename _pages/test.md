@@ -34,13 +34,7 @@ In the yoga tradition Shama refers to the conscious harmony of the Whole Self â€
 <p>There are several ways to connect to the Yoga teachings and it's my wish that all may serve to integrate with your own creative outlook and the possibilities of our time.</p>
 </div>
 
-</div>
-<ul id="shama-offer">
-<li>For Yoga Practioners wanting to deepen and share their knowledge we offer a one year teacher training course</li>
-<li>For beginners and advanced alike we offer workshops, yoga retreats, ongoing yoga classes, audio instructional and ambient albums and film</li>
-<li>If you are a student or teacher of yoga in search of fresh insights and some missing keys to your art, these books are for you, as well as for those who, for whatever reason are irresistibly drawn to inner adventures.</li>
-<li>You can subscribe to our free newsletter to receive inspirational articles, downloads and updates on shamayoga activities</li>
-</ul>
+</div> <ul id="shama-offer"> <li>For Yoga Practioners wanting to deepen and share their knowledge we offer a one year teacher training course</li> <li>For beginners and advanced alike we offer workshops, yoga retreats, ongoing yoga classes, audio instructional and ambient albums and film</li> <li>If you are a student or teacher of yoga in search of fresh insights and some missing keys to your art, these books are for you, as well as for those who, for whatever reason are irresistibly drawn to inner adventures.</li> <li>You can subscribe to our free newsletter to receive inspirational articles, downloads and updates on shamayoga activities as they happen</li> </ul>
 
 <div id="bit-of-a-footer">
 <img src="https://lh3.googleusercontent.com/-4SRh08WPwMo/Wx6MRsjoTXI/AAAAAAAABGc/Ev1usdrNjc8HU-6AkqrNI7R8FOn_J48qQCJoC/s150-e30/webphotos12.jpg"/>
