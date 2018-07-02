@@ -28,9 +28,10 @@
     <div class="post hentry">
     <!--<h1 class='post-title entry-title'>Shamayoga School</h1> <div class='post-header'> </div>-->
     <div class="top section" id="top"><div class="widget HTML" data-version="1" id="HTML1">
+            {{ content }}
     <div class="widget-content">
     <div id="gallery">
-      {{ content }}
+
         {% for gimage in page.gallery_images %}
            <a href="{{ gimage.image}}" target="_blank"/><img class="gallery-image" src="{{ gimage.image | replace: '=s0-', '=w400-h250-p-' }}"/></a>
         {% endfor %}
